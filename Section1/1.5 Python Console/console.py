@@ -6,7 +6,7 @@ class Calculator:
         return a + b
 
     def divide(self, a, b):
-        return b / a
+        return b/a
 
     # Todo: Add subtract option
 
